@@ -27,12 +27,12 @@ personId,PlayerName,position,country,draftYear,height_in,weight_lb,guard,forward
 438,Robert Werdann,C,USA,1992.0,83.0,250.0,False,False,True
 475,Doug Smith,F,USA,1991.0,82.0,220.0,False,True,False
 676,Thomas Hamilton,C,USA,-1.0,86.0,330.0,False,False,True
-684,Loren Meyer,C,USA,1995.0,82.0,684.0,False,True,True
+684,Loren Meyer,C,USA,1995.0,82.0,257.0,False,True,True
 700,Keith Tower,C-F,USA,-1.0,83.0,250.0,False,False,True
 704,Shawn Respert,G,USA,1995.0,73.0,195.0,True,False,False
 1505,Tariq Abdul-Wahad,F,France,1997.0,78.0,235.0,True,True,False
 1732,Felipe Lopez,G,Dominican Republic,1998.0,77.0,195.0,True,True,False
-1735,Vladimir Stepania,C,Georgia,1998.0,85.0,1735.0,False,False,True
+1735,Vladimir Stepania,C,Georgia,1998.0,84.0,236.0,False,False,True
 1743,Bruno Sundov,C,Croatia,1998.0,86.0,260.0,False,False,True
 1893,Aleksandar Radojevic,C,Bosnia and Herzegovina,1999.0,87.0,250.0,False,False,True
 1928,Todd MacCulloch,C,Canada,1999.0,84.0,280.0,False,False,True
